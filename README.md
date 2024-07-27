@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @priyam930
-- 👀 I’m interested in programming..
-- 🌱 I’m currently learning advance python programming, Linux, Ansible and docker..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Devops and Ml..
+- 🌱 I’m currently learning advance python programming, Linux, and docker..
 - 📫 How to reach me - priyamsanodiya340@gmail.com
 
 <!---
