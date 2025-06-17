@@ -2,6 +2,10 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Open Source Contributor | Problem Solver</h3>
 
 <p align="center">
+  <img src="https://github.com/priyamsanodiya340/priyamsanodiya340/blob/main/banner.png" alt="Priyam's Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Practitioner;Cloud%20Learner;CI/CD%20Pipeline%20Builder;Kubernetes%20Explorer;Problem%20Solver&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
@@ -15,9 +19,9 @@
 
 - 🎓 Final Year B.Tech Student | Computer Science (AI & Data Science) at **AKS University, Satna**
 - 🔨 Currently exploring **Kubernetes, Jenkins, Ansible, AWS, and CI/CD Pipelines**
-- 🔥 Actively sharing real-world projects and detailed technical blogs
-- 🌱 Learning from **real-time problem statements** under the mentorship of **Mr. Vimal Daga (LinuxWorld)**
-- ✍️ Sharing knowledge on **[Medium](https://medium.com/@priyamsanodiya340)** and **Instagram (@devopswithpriyam)**
+- 🌱 Learning from **real-time DevOps problem statements** under the mentorship of **Mr. Vimal Daga (LinuxWorld)**
+- 🔥 Solving industry-level projects and sharing detailed write-ups on **Medium** and **Instagram**
+- ✍️ Always ready to learn, contribute, and help the DevOps community grow
 
 ---
 
@@ -56,29 +60,22 @@
 
 - 🌐 [Portfolio](https://priyam-sanodiya.netlify.app/)
 - 📄 [Medium](https://medium.com/@priyamsanodiya340)
-- 📷 [Instagram: @devopswithpriyam](https://www.instagram.com/priyam_sanodiya/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyam-sanodiya/)
+- 📷 [Instagram: @devopswithpriyam](https://www.instagram.com/devopswithpriyam/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyam-sanodiya-4183a3240/)
 - 📧 Email: priyamsanodiya340@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=radical" alt="Priyam's GitHub Stats" />
-</p>
+> ⚡ **For Best Performance: Self-Host GitHub Stats on Vercel (Recommended)**  
+> 👉 [Follow This Guide to Deploy](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsanodiya340&layout=compact&theme=radical" alt="Priyam's Top Languages" />
-</p>
+```markdown
+<img src="https://your-vercel-app-name.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" />
+✅ Or use this (may face downtime sometimes):
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsanodiya340&layout=compact&theme=tokyonight" alt="Priyam's Top Languages" /> </p>
+🙏 Special Thanks
+Special thanks to my mentor Mr. Vimal Daga and the LinuxWorld Team for continuously guiding me through challenging real-time DevOps problem statements and for providing a collaborative learning environment.
 
----
-
-## 🙏 Special Thanks
-A huge thanks to my mentor **Mr. Vimal Daga** and the **LinuxWorld Team** for providing me with the opportunity to work on real-world DevOps problems and helping me grow continuously.
-
----
-
-<p align="center">
-  🚀 Let's grow together in the DevOps world!
-</p>
+<p align="center"> 🚀 Let's grow together in the DevOps world! </p> ```
