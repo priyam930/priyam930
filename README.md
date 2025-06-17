@@ -45,11 +45,11 @@
 
 - **🔗 Full DevOps Workflow: Git → Jenkins → Ansible → Docker → Kubernetes (AWS)**
   - 🚀 Medium Blog: [Read Here](https://medium.com/@priyamsanodiya340/full-devops-workflow-git-jenkins-ansible-docker-kubernetes-with-ssh-setup-on-aws-625b2c2f0ba6)
-  - 💻 GitHub Repository: [View on GitHub](https://github.com/priyamsanodiya340/full-devops-workflow)
+  - 💻 GitHub Repository: [View on GitHub](https://github.com/priyam930/Full-DevOps-Workflow--Git-Jenkins-Ansible-Docker-Kubernetes)
 
 - **🏏 Real-Time Cricket Score Tracker**
   - Technologies: Flask, Docker, Jenkins, Kubernetes, Argo CD
-  - 📄 Medium Blog: Coming Soon
+  - 📄 Medium Blog: *Coming Soon*
 
 - **📦 Docker Automation Using Flask**
   - AWS-based deployment to manage Docker containers via Flask APIs
@@ -60,8 +60,8 @@
 
 - 🌐 [Portfolio](https://priyam-sanodiya.netlify.app/)
 - 📄 [Medium](https://medium.com/@priyamsanodiya340)
-- 📷 [Instagram: @devopswithpriyam](https://www.instagram.com/devopswithpriyam/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyam-sanodiya-4183a3240/)
+- 📷 [Instagram: @devopswithpriyam](https://www.instagram.com/priyam_sanodiya/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyam-sanodiya/)
 - 📧 Email: priyamsanodiya340@gmail.com
 
 ---
