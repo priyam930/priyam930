@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Open Source Contributor | Problem Solver</h3>
 
 <p align="center">
-  <img src="[(https://github.com/priyam930/priyam930/blob/main/banner.png)]" alt="Priyam's Banner" />
+  <img src="https://github.com/priyam930/priyam930/blob/main/banner.png" alt="Priyam's Banner" />
 </p>
 
 <p align="center">
@@ -68,14 +68,30 @@
 
 ## 📊 GitHub Stats
 
-> ⚡ **For Best Performance: Self-Host GitHub Stats on Vercel (Recommended)**  
-> 👉 [Follow This Guide to Deploy](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+### 🚀 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamsanodiya340&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-```markdown
-<img src="https://your-vercel-app-name.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" />
-✅ Or use this (may face downtime sometimes):
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsanodiya340&layout=compact&theme=tokyonight" alt="Priyam's Top Languages" /> </p>
-🙏 Special Thanks
-Special thanks to my mentor Mr. Vimal Daga and the LinuxWorld Team for continuously guiding me through challenging real-time DevOps problem statements and for providing a collaborative learning environment.
+---
 
-<p align="center"> 🚀 Let's grow together in the DevOps world! </p> ```
+### 🚀 GitHub Stats and Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsanodiya340&layout=compact&theme=tokyonight" alt="Priyam's Top Languages" />
+</p>
+
+---
+
+## 🙏 Special Thanks
+
+Special thanks to my mentor **Mr. Vimal Daga** and the **LinuxWorld Team** for providing me with real-time DevOps learning opportunities and continuously guiding me.
+
+---
+
+<p align="center">
+  🚀 Let's grow together in the DevOps world!
+</p>
