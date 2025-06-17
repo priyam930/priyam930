@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7C00?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,7 +71,7 @@
 
 ### 🚀 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyam930&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=priyam930&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
