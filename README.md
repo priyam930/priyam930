@@ -70,18 +70,18 @@
 
 ### 🚀 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamsanodiya340&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyam930&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 GitHub Stats and Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamsanodiya340&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyam930&show_icons=true&theme=tokyonight" alt="Priyam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsanodiya340&layout=compact&theme=tokyonight" alt="Priyam's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam930&layout=compact&theme=tokyonight" alt="Priyam's Top Languages" />
 </p>
 
 ---
