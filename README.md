@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Open Source Contributor | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github.com/priyamsanodiya340/priyamsanodiya340/blob/main/banner.png" alt="Priyam's Banner" />
+  <img src="[(https://github.com/priyam930/priyam930/blob/main/banner.png)]" alt="Priyam's Banner" />
 </p>
 
 <p align="center">
